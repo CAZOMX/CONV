@@ -1,0 +1,7 @@
+﻿  BinA.cpp
+  DecA.cpp
+  HexA.cpp
+C:\Users\jeffc\Documents\SEMESTRE II\POO\Binario\Binario\HexA.cpp(15,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Source.cpp
+  Generando código...
+  Binario.vcxproj -> C:\Users\jeffc\Documents\SEMESTRE II\POO\Binario\x64\Debug\Binario.exe
